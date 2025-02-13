@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CS KOUSHIK
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Deep Learning
+- 👀 AI enthusiast
+- 🌱 Learn new stuff
 - 💞️ I’m looking to collaborate on Machine Learning and Deep Learning Competitions.
 - 📫 Reach me via -->  https://www.linkedin.com/in/koushikcs
 
